@@ -16,4 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31wnqymccxgijfrmwhdzccdcetra)
+
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31wnqymccxgijfrmwhdzccdcetra&count={count})
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31wnqymccxgijfrmwhdzccdcetra&unique={true|1|on|yes})
