@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31wnqymccxgijfrmwhdzccdcetra&count={count})
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31wnqymccxgijfrmwhdzccdcetra&unique={true|1|on|yes})
+
+https://accounts.spotify.com/authorize?client_id=0a1429418e48404384324b7305fd0531&response_type=code&scope=user-read-currently-playing,user-read-recently-played&redirect_uri=http://localhost/callback/
