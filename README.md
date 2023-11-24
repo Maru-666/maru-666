@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31wnqymccxgijfrmwhdzccdcetra&unique={true|1|on|yes})
 
-https://accounts.spotify.com/authorize?client_id=0a1429418e48404384324b7305fd0531&response_type=code&scope=user-read-currently-playing,user-read-recently-played&redirect_uri=http://localhost/callback/
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=31wnqymccxgijfrmwhdzccdcetra&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31wnqymccxgijfrmwhdzccdcetra&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)]]
