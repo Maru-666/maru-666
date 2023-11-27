@@ -1,24 +1,20 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Maru</h1>
+<h3 align="center">A passionate frontend developer from Japan</h3>
 
-<!--
-**Maru-666/maru-666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maru-666&label=Profile%20views&color=0e75b6&style=flat" alt="maru-666" /> </p>
 
-Here are some ideas to get you started:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maru-666&show_icons=true&locale=en&layout=compact" alt="maru-666" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maru-666&show_icons=true&locale=en" alt="maru-666" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maru-666&" alt="maru-666" /></p>
+
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31wnqymccxgijfrmwhdzccdcetra)
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31wnqymccxgijfrmwhdzccdcetra&count={count})
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31wnqymccxgijfrmwhdzccdcetra&unique={true|1|on|yes})
-
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=31wnqymccxgijfrmwhdzccdcetra&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31wnqymccxgijfrmwhdzccdcetra&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)]]
